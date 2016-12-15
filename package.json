@@ -1,0 +1,33 @@
+{
+  "name": "portfolio-1",
+  "version": "1.0.0",
+  "description": "portfolio-1",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-scss": "^1.4.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.2",
+    "del": "^2.2.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^3.0.0",
+    "gulp-scss": "^1.4.0",
+    "gulp-size": "^2.1.0",
+    "gulp-sourcemaps": "^1.9.1",
+    "gulp-uglify": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlgaGarmata/portfolio-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlgaGarmata/portfolio-1/issues"
+  },
+  "homepage": "https://github.com/OlgaGarmata/portfolio-1#readme"
+}
